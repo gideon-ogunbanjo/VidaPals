@@ -5,4 +5,4 @@ This is the official repository for Vidapals.
 23 December 2022
 
 ## Contributors:
-Gideon Ogunbanjo [Joseph Ojo](https://github.com/joeworld)
+Gideon Ogunbanjo, [Joseph Ojo](https://github.com/joeworld)
